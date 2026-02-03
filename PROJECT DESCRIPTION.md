@@ -1,6 +1,14 @@
 # Student Performance Analytics
 
-![Logo](https://raw.githubusercontent.com/Kalungup/student-performance-analytics/main/Abstract4all.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kalungup/student-performance-analytics/main/Abstract4all.png" width="90"/>
+</p>
+
+<h1 align="center">ABSTRACT 4 ALL</h1>
+
+<p align="center">
+Student Performance Analytics • Data Cleaning • Visualization • Insights
+</p>
 
 ## 📌 Project Overview
 This project performs data cleaning, exploratory data analysis (EDA), and visualization on a dataset of 10,000 student records containing academic marks and demographic information.  
